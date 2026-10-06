@@ -1,0 +1,12 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: #22577a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    margin: 10px;
+}
